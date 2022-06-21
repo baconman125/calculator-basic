@@ -59,6 +59,7 @@ class Calculator {
     getDisplayNumber(number){
         const floatNumber = parseFloat(number)
         if(floatNumber === 69420) return "No Divide By 0 Bum"
+        calculator.clear()
         if(isNaN(floatNumber)) return ''
 
         return floatNumber.toLocaleString('en')
