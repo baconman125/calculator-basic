@@ -1,2 +1,1 @@
-# calculator-basic
-Basic calculator that functions properly
+calculator with basic functionality
