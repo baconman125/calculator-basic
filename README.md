@@ -1,2 +1,4 @@
 # calculator-basic
-Basic calculator with stuff and things
+Basic calculator that functions properly
+
+https://baconman125.github.io/calculator-basic/
